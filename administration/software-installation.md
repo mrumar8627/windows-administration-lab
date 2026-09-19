@@ -35,13 +35,14 @@ Before installing an application, check:
 Download the software installer from an official or trusted source.
 
 Common installer formats include:
-Step 2: Start the Installer
+
+### Step 2: Start the Installer
 
 Locate the downloaded installer and open it.
 
 Windows may ask for administrator permission before continuing.
 
-Step 3: Follow the Installation Wizard
+### Step 3: Follow the Installation Wizard
 
 A typical installation wizard may include:
 
@@ -53,7 +54,7 @@ Desktop shortcuts
 
 Review the available options before continuing.
 
-Step 4: Complete the Installation
+### Step 4: Complete the Installation
 
 Select the installation option and wait for the process to finish.
 
@@ -65,12 +66,12 @@ After installation, some applications may require configuration.
 
 Examples include:
 
-User preferences
-Language settings
-Default file locations
-Network settings
-Application updates
-User account settings
+- User preferences
+- Language settings
+- Default file locations
+- Network settings
+- Application updates
+- User account settings
 
 Configuration should follow the user's requirements and organizational policies.
 
@@ -80,11 +81,11 @@ Software should be updated when appropriate.
 
 Updates may:
 
-Fix bugs
-Improve performance
-Improve compatibility
-Add features
-Address security vulnerabilities
+- Fix bugs
+- Improve performance
+- Improve compatibility
+- Add features
+- Address security vulnerabilities
 
 Before applying major updates in an organization, compatibility and organizational requirements should be considered.
 
@@ -104,13 +105,13 @@ Troubleshooting Installation Problems
 
 If software fails to install, check:
 
-System requirements
-Available storage space
-Administrator permissions
-Windows version
-Installation error message
-Internet connection, if required
-Installer source and integrity
+- System requirements
+- Available storage space
+- Administrator permissions
+- Windows version
+- Installation error message
+- Internet connection, if required
+- Installer source and integrity
 
 Record the error message before making major changes.
 
@@ -122,11 +123,11 @@ Avoid installing unknown or suspicious applications.
 
 Before installation, verify:
 
-Publisher
-Download source
-Required permissions
-Software purpose
-Organization policy
+- Publisher
+- Download source
+- Required permissions
+- Software purpose
+- Organization policy
 
 Do not install unauthorized software on an organization computer..exe
 .msi
